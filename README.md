@@ -5,3 +5,10 @@ ASTRA, the Swiss Federal Roads Office, provides rich data about vehicles in Swit
 The main source is https://www.astra.admin.ch/astra/de/home/dokumentation/daten-informationsprodukte/fahrzeugdaten.html, which contains data about newly registered vehicles, as well as the total stock of vehicles in Switzerland. The original data comes as txt, and is updated regularly.
 
 Check above link for available stati and datasets.
+
+## Fetching the data
+
+To save the data in the convenient Apache parquet format, we have code in both Python and R. The code can be adapted to fetch different datasets.
+
+- **Python**: vehicles.ipynb
+- **R**: vehicles.R (not yet available)
