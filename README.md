@@ -12,3 +12,9 @@ To save the data in the convenient Apache parquet format, we have code in both P
 
 - **Python**: vehicles.ipynb
 - **R**: vehicles.R (not yet available)
+
+## Example screenshot of counts per `Fahrzeugart` (stock)
+
+![Screenshot](stock_aggregated.jpg)
+
+
