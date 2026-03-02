@@ -15,6 +15,6 @@ To save the data in the convenient Apache parquet format, we have code in both P
 
 ## Example screenshot of counts per `Fahrzeugart` (stock)
 
-![Screenshot](stock_aggregated.jpg)
+<img src="stock_aggregated.jpg" width="50%"/>
 
 
