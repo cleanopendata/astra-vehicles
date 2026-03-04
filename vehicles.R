@@ -75,7 +75,10 @@ df <- (
     pl$col("Leistung")$str$replace("'", "")$cast(pl$Float64),
   )
 )
-df$sink_parquet(OUTFILE, compression=COMPRESSION)
+
+system.time(
+  df$sink_parquet(OUTFILE, compression=COMPRESSION)
+)
 
 
 #===========================================================================
