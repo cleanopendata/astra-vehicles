@@ -101,3 +101,5 @@ system.time(
   $head(10)
   $collect()
 )
+
+# Hint: you can use {nanoparquet} or {duckdb} to read compressed Parquets without Polars
