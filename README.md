@@ -10,8 +10,8 @@ Check above link for available stati and datasets.
 
 To save the data in the convenient Apache parquet format, we have code in both Python and R. The code can be adapted to fetch different datasets.
 
-- **Python**: vehicles.ipynb
-- **R**: vehicles.R (not yet available)
+- **Python**: [vehicles.ipynb](vehicles.ipynb)
+- **R**: [vehicles.R](vehicles.R)
 
 ## Example screenshot of counts per `Fahrzeugart` (stock)
 
